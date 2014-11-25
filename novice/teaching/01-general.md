@@ -16,18 +16,27 @@ see [this wiki page](https://github.com/swcarpentry/bc/wiki/Configuration-Proble
     it's a good idea to email the learners at the end of each day with a summary of what was taught
     (with links to the relevant online notes).
     This allows absent learners to catch up before the next session,
-    and is also a great opporunity to present the lessons of the day
+    and is also a great opportunity to present the lessons of the day
     in the context of the entire bootcamp.
 
-*   Point learners at [http://software-carpentry.org/v5/](http://software-carpentry.org/v5/),
-    which is the permanent home of the current learning materials,
-    and at [http://software-carpentry.org/v4/](http://software-carpentry.org/v4/),
-    which is where our previous materials live.
-    The former corresponds to what they're being taught;
-    the latter covers more ground in video as well as in slides and prose.
-    They should also be direct to
-    [Software Carpentry's FAQ](http://software-carpentry.org/faq.html).
+*   The long-form notes are intended as a script for instructors
+    and as self-study material for learners.
+    Do *not* show these notebooks to learners:
+    instead,
+    start with a blank notebook when teaching and add code as you go.
+    This helps prevent you from racing ahead of learners
+    and makes it easier for you to improvise in response to their questions.
 
+*   Point learners at the online versions of the long-form notes
+    (either on your bootcamp's home page
+    or at [http://software-carpentry.org/v5/](http://software-carpentry.org/v5/)
+    *after* the lesson is done:
+    if you do it before the lesson,
+    they'll try to read the notes while you're trying to talk. Also mention the previous 
+    materials at [http://software-carpentry.org/v4/](http://software-carpentry.org/v4/); these
+    cover more ground in video as well as in slides and prose. Finally direct learners to
+    the [Software Carpentry's FAQ](http://software-carpentry.org/faq.html).
+    
 *   Explain that the lesson materials can all be freely re-mixed and re-used
     under the [Creative Commons - Attribution](../../LICENSE.html) (CC-BY) license,
     provided people cite us as the original source
@@ -104,27 +113,6 @@ see [this wiki page](https://github.com/swcarpentry/bc/wiki/Configuration-Proble
     and any related points the instructor may not have mentioned).
     It's less disruptive to the "live" instructor than interjecting with these points,
     but allows the attendees to get the shared expertise from both instructors.
-
-*   For bootcamps that extend over more than two days (e.g. four afternoons spread over two weeks),
-    it's a good idea to email the learners at the end of each day with a summary of what was taught
-    (with links to the relevant online notes).
-    Not only does this allow absent learners to catch up before the next session,
-    it's also a great opporunity to present the lessons of the day in the context of the entire bootcamp.
-
-*   The long-form notes are intended as a script for instructors
-    and as self-study material for learners.
-    Do *not* show these notebooks to learners:
-    instead,
-    start with a blank notebook when teaching and add code as you go.
-    This helps prevent you from racing ahead of learners
-    and makes it easier for you to improvise in response to their questions.
-
-*   Point learners at the online versions of the long-form notes
-    (either on your bootcamp's home page
-    or at [http://software-carpentry.org/v5/](http://software-carpentry.org/v5/)
-    *after* the lesson is done:
-    if you do it before the lesson,
-    they'll try to read the notes while you're trying to talk.
 
 *   If you're really keen,
     keep the SVG's of the diagrams handy in the directory where you're doing your teaching
